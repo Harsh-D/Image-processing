@@ -1,5 +1,5 @@
 clc;close all;
-I=imread('IMG_0667.jpg');
+I=imread('jaguar.jpg');
 %imshow(I);
 %[n,m]=size(I);
 %imfinfo('jaguar.jpg')
