@@ -1,4 +1,4 @@
-clc;close all;
+clc;close all; clear;
 I=imread('jaguar.jpg');
 %imshow(I);
 %[n,m]=size(I);
